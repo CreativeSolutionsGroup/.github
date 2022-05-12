@@ -1,5 +1,3 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/38381688/115948145-4e451080-a49a-11eb-8027-9db71f47618c.png" alt="SmartEvents" width="50%">
+  <img src="https://github.com/CreativeSolutionsGroup/.github/blob/main/csg-social-logo.jpg" alt="SmartEvents" width="50%">
 </p>
-
-# Creative Solutions Group
