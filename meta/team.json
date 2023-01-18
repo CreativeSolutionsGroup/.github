@@ -1,41 +1,51 @@
 [
     {
+        "name": "Spencer Bills",
         "email": "sbills@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name:" "Joshua Thomas",
         "email": "jnthomas522@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name": "Matthew Jacobs",
         "email": "wjacobs@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name": "Ashlyn DeVries",
         "email": "adevries@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name": "Kobe Couvion",
         "email": "kcouvion@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name": "Alexander Taylor",
         "email": "alexandertaylor@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name": "Ian Harrington",
         "email": "ianharrington@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name": "Roberto Moran",
         "email": "robertomoran@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name": "Sebastian Neiswanger",
         "email": "sneiswanger@cedarville.edu",
         "roles": ["admin"]
     },
     {
+        "name": "Jackson Isenhower",
         "email": "jacksonisenhower@cedarville.edu",
         "roles": ["admin"]
     }
