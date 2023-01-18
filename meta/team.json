@@ -1,0 +1,42 @@
+[
+    {
+        "email": "sbills@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "jnthomas522@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "wjacobs@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "adevries@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "kcouvion@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "alexandertaylor@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "ianharrington@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "robertomoran@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "sneiswanger@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "email": "jacksonisenhower@cedarville.edu",
+        "roles": ["admin"]
+    }
+]
