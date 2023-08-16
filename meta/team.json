@@ -15,6 +15,10 @@
         "roles": ["admin"]
     },
     {
+        "name": "Kobe Couvion",
+        "email": "kcouvion@cedarville.edu",
+        "roles": ["admin"]
+    },
         "name": "Zaine Fletcher",
         "email": "zfletcher@cedarville.edu",
         "roles": ["admin"]
