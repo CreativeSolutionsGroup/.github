@@ -18,5 +18,11 @@
         "name": "Zaine Fletcher",
         "email": "zfletcher@cedarville.edu",
         "roles": ["admin"]
+    },
+    {
+        "name": "Adrianna Holst",
+        "email": "adrianna.d.holst@cedarville.edu",
+        "roles": ["admin"]
     }
+
 ]
