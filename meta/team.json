@@ -13,5 +13,10 @@
         "name": "Sebastian Neiswanger",
         "email": "sneiswanger@cedarville.edu",
         "roles": ["admin"]
+    },
+    {
+        "name": "Matthew Jacobs",
+        "email": "wjacobs@cedarville.edu",
+        "roles": ["admin"]
     }
 ]
