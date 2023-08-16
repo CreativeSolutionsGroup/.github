@@ -3,7 +3,7 @@
         "name": "Spencer Bills",
         "email": "sbills@cedarville.edu",
         "roles": ["admin"]
-    }
+    },
     {
         "name": "Ashlyn DeVries",
         "email": "adevries@cedarville.edu",
@@ -12,6 +12,11 @@
     {
         "name": "Sebastian Neiswanger",
         "email": "sneiswanger@cedarville.edu",
+        "roles": ["admin"]
+    },
+    {
+        "name": "Matthew Jacobs",
+        "email": "wjacobs@cedarville.edu",
         "roles": ["admin"]
     }
 ]
