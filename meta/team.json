@@ -18,5 +18,11 @@
         "name": "Matthew Jacobs",
         "email": "wjacobs@cedarville.edu",
         "roles": ["admin"]
+    },
+    {
+        "name": "Adrianna Holst",
+        "email": "adrianna.d.holst@cedarville.edu",
+        "roles": ["admin"]
     }
+
 ]
